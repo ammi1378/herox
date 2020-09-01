@@ -1,1 +1,9 @@
-@import './normalize.scss'
+@import './normalize.scss';
+
+html, body {
+    height: 100%;
+}
+
+* {
+    box-sizing: border-box;;
+}
